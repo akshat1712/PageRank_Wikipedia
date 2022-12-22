@@ -1,0 +1,42 @@
+Name: Akshat Toolaj Sinha
+Entry Number: 2020CSB1068
+
+# INFO ABOUT THE CODE #
+    1. To run my code, just change the file_name to your file and choose appropriate values of k,p,itr
+    2. Comments are Present throughout the file to understand the code
+
+
+Observations From Random Walk
+
+1. When we do a randomwalk on the Whole Wikipedia dump, we get some interesting results.
+
+2. Information Gathering Sources such as newspapers,TV Channels are quite high pageranked, as wikipages refer to them for information, making it very high pageranked.
+
+3. Countries ( United States, India  France etc) & Geographical region also comes near the top as nearly every entity has a country of origin and belonging. 
+Some Countries like USA, Russia comes high in places , but there are some countries & geographical region which are very high pageranked considering their size is small 
+which is Poland, Iran, Malaysia, Sweden are higher placed than India. This might be due to their high involement in world affairs like Israel.
+
+4. Sports like Football, Cricket, Tennis, also comes near the top, might be due to their high spread in society,culture and people watch sports a lot 
+
+5. Conflicts & World Wars have also came near the top as they usually set up chains of events in future for years to come 
+
+6. One striking observation is coming up of Animals & Insects such as moth,arthropod,cerambycidae,mollusca very high in pageranked, they might be very 
+primitive organisms results in very top of evolutionary chain, but still a definite reason is hard to give.
+
+7. Scientific terms are not coming up frequently, I think this is due to fact, that they are not required in daily life 
+and also wikipedia is not primary source for proofs and concepts.
+
+8. There is a gradation of pagerank from geograhpical locations to religion,culture,sports and finally a indistinguishable mixture after some time
+
+9. Historicals places and events are mostly absent from top, one plausibles reason can be that they usually don't refer to something important and they are referred to
+
+10. Individual personalities come very rarely, I can conclude that one individual personality does not change the world, it is always a collection of people.
+
+11. Government Organization unlike private Organization do come a lot like American Navy,Government of India etc.
+
+12. All the Olympics editions are quite highly ranked, might be due to it being a huge event after every 4 years 
+
+
+All the above description shows wikipedia replicates life in a good sense, We all live in a geograhpical area and live in present and don't care about the past and 
+consider collective is better than individal. Wikipedia is collection of ideas/events so it should mimics society at a good level, which it seems to do when viewed
+through lens of pagerank.
