@@ -1,5 +1,5 @@
-This Repository is of a project in CS522: Social Computing at Indian Institute of Technology Ropar.
-Faculty: Dr Sudarshan Iyengar
+This Repository is of a project in **CS522: Social Computing** at Indian Institute of Technology Ropar.  
+Faculty: **Dr Sudarshan Iyengar**
 
 In this Project, We are assigned to run a random walk on Wikipedia using publically available wikidump and try to find some 
 interesting observations from the random-walk. Running random-walk will give us the page-rank of all the web pages on 
